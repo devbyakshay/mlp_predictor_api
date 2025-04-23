@@ -1,7 +1,6 @@
 fastapi
 Pillow
-torch
-torchvision
+pytorch
 numpy
 opencv-python
 tensorflow
